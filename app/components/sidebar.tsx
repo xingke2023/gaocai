@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
           香港高才联合会AI办公赋能
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          AI办公赋能平台
+          ai.hktta2023.com
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
