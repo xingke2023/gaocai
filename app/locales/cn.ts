@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。详情请发邮件至香港高才联合会IT部门 it@hktta2023.com",
+      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码。有任何问题请发邮件至香港高才联合会IT部门：it@hktta2023.com",
   },
   Auth: {
     Title: "需要密码",
